@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **31** | 0 | 31 | 0 | `2026-11-14` |
+| **32** | 0 | 32 | 0 | `2026-11-16` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (31)
+### DSA (32)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -47,6 +47,7 @@
 | 0029 | [957. Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [PY](./DSA/General/return-the-largest-digit-in-a-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-22` |
 | 0030 | [101. Reverse a number](./DSA/General/reverse-a-number) | [PY](./DSA/General/reverse-a-number/solution.py) | 🟡 Medium | `General` | `2026-10-21` |
 | 0031 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [PY](./DSA/Arrays/reverse-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
+| 0032 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [PY](./DSA/General/second-highest-occurring-element/solution.py) | ⚪ Unspecified | `General` | `2026-11-16` |
 
 ---
 
