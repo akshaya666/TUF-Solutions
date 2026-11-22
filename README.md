@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **38** | 0 | 38 | 0 | `2026-11-22` |
+| **39** | 0 | 39 | 0 | `2026-11-22` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (38)
+### DSA (39)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -54,6 +54,7 @@
 | 0036 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [PY](./DSA/Arrays/reverse-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
 | 0037 | [324. Rotate String](./DSA/Strings/rotate-string) | [PY](./DSA/Strings/rotate-string/solution.py) | ⚪ Unspecified | `Strings` | `2026-11-22` |
 | 0038 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [PY](./DSA/General/second-highest-occurring-element/solution.py) | ⚪ Unspecified | `General` | `2026-11-16` |
+| 0039 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [PY](./DSA/Strings/valid-anagram/solution.py) | ⚪ Unspecified | `Strings` | `2026-11-22` |
 
 ---
 
