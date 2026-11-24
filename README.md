@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **42** | 0 | 42 | 0 | `2026-11-24` |
+| **43** | 0 | 43 | 0 | `2026-11-24` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (42)
+### DSA (43)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -51,13 +51,14 @@
 | 0033 | [1008. Pattern 9](./DSA/General/pattern-9) | [PY](./DSA/General/pattern-9/solution.py) | ⚪ Unspecified | `General` | `2026-10-11` |
 | 0034 | [957. Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [PY](./DSA/General/return-the-largest-digit-in-a-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-22` |
 | 0035 | [101. Reverse a number](./DSA/General/reverse-a-number) | [PY](./DSA/General/reverse-a-number/solution.py) | 🟡 Medium | `General` | `2026-10-21` |
-| 0036 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [PY](./DSA/Strings/reverse-a-string-ii/solution.py) | ⚪ Unspecified | `Strings` | `2026-11-17` |
-| 0037 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [PY](./DSA/Arrays/reverse-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
-| 0038 | [324. Rotate String](./DSA/Strings/rotate-string) | [PY](./DSA/Strings/rotate-string/solution.py) | ⚪ Unspecified | `Strings` | `2026-11-22` |
-| 0039 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [PY](./DSA/General/second-highest-occurring-element/solution.py) | ⚪ Unspecified | `General` | `2026-11-16` |
-| 0040 | [303. Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [PY](./DSA/Arrays/sort-characters-by-frequency/solution.py) | ⚪ Unspecified | `Arrays` | `2026-11-24` |
-| 0041 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [PY](./DSA/General/sum-of-first-n-numbers/solution.py) | ⚪ Unspecified | `General` | `2026-11-24` |
-| 0042 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [PY](./DSA/Strings/valid-anagram/solution.py) | ⚪ Unspecified | `Strings` | `2026-11-22` |
+| 0036 | [294. Reverse a String I](./DSA/Strings/reverse-a-string-i) | [PY](./DSA/Strings/reverse-a-string-i/solution.py) | ⚪ Unspecified | `Strings` | `2026-11-24` |
+| 0037 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [PY](./DSA/Strings/reverse-a-string-ii/solution.py) | ⚪ Unspecified | `Strings` | `2026-11-17` |
+| 0038 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [PY](./DSA/Arrays/reverse-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
+| 0039 | [324. Rotate String](./DSA/Strings/rotate-string) | [PY](./DSA/Strings/rotate-string/solution.py) | ⚪ Unspecified | `Strings` | `2026-11-22` |
+| 0040 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [PY](./DSA/General/second-highest-occurring-element/solution.py) | ⚪ Unspecified | `General` | `2026-11-16` |
+| 0041 | [303. Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [PY](./DSA/Arrays/sort-characters-by-frequency/solution.py) | ⚪ Unspecified | `Arrays` | `2026-11-24` |
+| 0042 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [PY](./DSA/General/sum-of-first-n-numbers/solution.py) | ⚪ Unspecified | `General` | `2026-11-24` |
+| 0043 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [PY](./DSA/Strings/valid-anagram/solution.py) | ⚪ Unspecified | `Strings` | `2026-11-22` |
 
 ---
 
